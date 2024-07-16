@@ -1,0 +1,8 @@
+Uri: https://assist-my-pal.care-desk.live/
+File Name: C:\Users\Piyush\Desktop\new websites\assist-my-pal.care-desk.live\index.htm
+Content Type: text/html
+
+Uri: https://img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js
+File Name: C:\Users\Piyush\Desktop\new websites\assist-my-pal.care-desk.live\signals\js\clients\scc-c2\scc-c2.min.js
+Content Type: text/javascript
+
